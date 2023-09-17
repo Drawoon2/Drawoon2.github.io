@@ -1,0 +1,11 @@
+{
+    "moveDataName":"WATER GUN",
+    "power": 40,
+    "accuary": 100,
+    "type":"water",
+    "ifSpecial":true,
+    "makeContact":false,
+    "priority": 0,
+    "pp": 25,
+    "effects":[]
+}

@@ -1,0 +1,80 @@
+{
+    "name": "BULBASAUR",
+    "image":"bulbasaur",
+    "types":[
+        "plant"
+    ],
+    "stats":{
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "special": 65,
+        "speed": 45
+    },
+    "levels":[
+        {
+            "level": 1,
+            "move": "growl"
+        },
+        {
+            "level": 1,
+            "move": "tackle"
+        },
+        {
+            "level": 3,
+            "move": "vine_whip"
+        },
+        {
+            "level": 6,
+            "move": "growth"
+        },
+        {
+            "level": 9,
+            "move": "leech_seed"
+        },
+        {
+            "level": 12,
+            "move": "razor_leaf"
+        },
+        {
+            "level": 15,
+            "move": "poison_powder"
+        },
+        {
+            "level": 15,
+            "move": "sleep_powder"
+        },
+        {
+            "level": 16,
+            "evolution": "ivysaur"
+        },
+        {
+            "level": 18,
+            "move": "seed_bomb"
+        },
+        {
+            "level": 21,
+            "move": "take_down"
+        },
+        {
+            "level": 24,
+            "move": "sweet_scent"
+        },
+        {
+            "level": 27,
+            "move": "synthesis"
+        },
+        {
+            "level": 30,
+            "move": "worry_seed"
+        },
+        {
+            "level": 33,
+            "move": "double_edge"
+        },
+        {
+            "level": 36,
+            "move": "solar_beam"
+        }
+    ]
+}

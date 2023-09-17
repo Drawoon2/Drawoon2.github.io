@@ -1,0 +1,13 @@
+{
+    "moveDataName":"THUNDER",
+    "power": 120,
+    "accuary": 70,
+    "type":"electric",
+    "ifSpecial":true,
+    "makeContact":false,
+    "priority": 0,
+    "pp": 10,
+    "effects":[
+        ["SC","paralyze",0.1]
+    ]
+}

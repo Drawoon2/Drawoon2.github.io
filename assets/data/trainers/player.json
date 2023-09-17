@@ -1,0 +1,12 @@
+{
+    "trainerName": "RED",
+    "trainerImage": "",
+    "trainerFolder":"player",
+    "difficulty": "hard",
+    "pokemons": [
+        "bulbasaur",
+        "pikachu"
+    ],
+    "inventory": [],
+    "loseDialogue": ""
+}

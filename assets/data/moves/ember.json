@@ -1,0 +1,13 @@
+{
+    "moveDataName":"EMBER",
+    "power": 40,
+    "accuary": 100,
+    "type":"fire",
+    "ifSpecial":true,
+    "makeContact":false,
+    "priority": 0,
+    "pp": 25,
+    "effects":[
+        ["SC","burn",0.1]
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "PIKACHU",
+    "image":"pikachu",
+    "types":[
+        "electric"
+    ],
+    "stats":{
+        "hp": 35,
+        "attack": 55,
+        "defense": 30,
+        "special": 50,
+        "speed": 90
+    },
+    "levels":[
+        {
+            "level": 1,
+            "move": "growl"
+        },
+        {
+            "level": 1,
+            "move": "thundershock"
+        },
+        {
+            "level": 9,
+            "move": "thunder_wave"
+        },
+        {
+            "level": 16,
+            "move": "quick_attack"
+        },
+        {
+            "level": 26,
+            "move": "swift"
+        },
+        {
+            "level": 33,
+            "move": "agility"
+        },
+        {
+            "level": 43,
+            "move": "thunder"
+        }
+    ]
+}

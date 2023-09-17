@@ -1,0 +1,12 @@
+{
+    "trainerName": "BLUE",
+    "trainerImage": "",
+    "trainerFolder":"blue",
+    "difficulty": "easy",
+    "pokemons": [
+        "charmander",
+        "squirtle"
+    ],
+    "inventory": [],
+    "loseDialogue": ""
+}

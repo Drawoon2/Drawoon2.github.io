@@ -1,0 +1,17 @@
+{
+    "name": "SQUIRTLE",
+    "image":"squirtle",
+    "types":[
+        "water"
+    ],
+    "stats":{
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "special": 50,
+        "speed": 43
+    },
+    "levels":[
+
+    ]
+}

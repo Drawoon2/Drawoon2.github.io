@@ -1,0 +1,11 @@
+{
+    "moveDataName":"move in the hud",
+    "power": 0,
+    "accuary": 0,
+    "type":"normal",
+    "ifSpecial":false,
+    "makeContact":false,
+    "priority": 0,
+    "pp": 0,
+    "effects":[]
+}
