@@ -1,11 +1,10 @@
 {
-    "moveDataName":"TACKLE",
+    "moveName":"PLACAJE",
     "power":35,
     "accuary":100,
     "type":"normal",
-    "ifSpecial":false,
-    "makeContact":true,
+    "isSpecial":false,
+    "doContact":true,
     "priority": 0,
-    "pp":35,
-    "effects":[]
+    "pp":35
 }

@@ -1,13 +1,10 @@
 {
-    "moveDataName":"THUNDERBOLT",
+    "moveName":"RAYO",
     "power": 95,
     "accuary": 100,
     "type":"electric",
-    "ifSpecial": true,
-    "makeContact":false,
+    "isSpecial": true,
+    "doContact":false,
     "priority": 0,
-    "pp": 15,
-    "effects":[
-        ["SC","paralyze",0.1]
-    ]
+    "pp": 15
 }

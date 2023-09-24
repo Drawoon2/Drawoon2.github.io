@@ -1,7 +1,6 @@
 {
     "trainerName": "BLUE",
     "trainerImage": "",
-    "trainerFolder":"blue",
     "difficulty": "easy",
     "pokemons": [
         "charmander",

@@ -1,13 +1,10 @@
 {
-    "moveDataName":"THUNDER",
+    "moveName":"TRUENO",
     "power": 120,
     "accuary": 70,
     "type":"electric",
-    "ifSpecial":true,
-    "makeContact":false,
+    "isSpecial":true,
+    "doContact":false,
     "priority": 0,
-    "pp": 10,
-    "effects":[
-        ["SC","paralyze",0.1]
-    ]
+    "pp": 10
 }

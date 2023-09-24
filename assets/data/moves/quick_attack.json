@@ -1,11 +1,10 @@
 {
-    "moveDataName":"QUICK ATTACK",
+    "moveName":"ATAQUE RÁPIDO",
     "power": 40,
     "accuary": 100,
     "type": "normal",
-    "ifSpecial":false,
-    "makeContact":true,
+    "isSpecial":false,
+    "doContact":true,
     "priority": 1,
-    "pp": 30,
-    "effects":[]
+    "pp": 30
 }

@@ -1,11 +1,10 @@
 {
-    "moveDataName":"VINE WHIP",
+    "moveName":"LÁTIGO CEPA",
     "power":45,
     "accuary":100,
     "type":"plant",
-    "ifSpecial":true,
-    "makeContact":true,
+    "isSpecial":true,
+    "doContact":true,
     "priority": 0,
-    "pp":25,
-    "effects":[]
+    "pp":25
 }
