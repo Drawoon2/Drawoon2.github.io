@@ -1,0 +1,15 @@
+{
+    "moveName":"IMPACTRUENO",
+    "power": 40,
+    "accuary": 100,
+    "type":"electric",
+    "moveClass": "special",
+    "doContact": false,
+    "priority": 0,
+    "pp": 30,
+    "secondEffect": {
+            
+        "effect": "target.PAR",
+        "prob": 10
+    }
+}

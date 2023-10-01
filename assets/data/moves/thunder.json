@@ -3,7 +3,7 @@
     "power": 120,
     "accuary": 70,
     "type":"electric",
-    "isSpecial":true,
+    "moveClass": "special",
     "doContact":false,
     "priority": 0,
     "pp": 10

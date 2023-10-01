@@ -2,8 +2,8 @@
     "moveName":"LÁTIGO CEPA",
     "power":45,
     "accuary":100,
-    "type":"plant",
-    "isSpecial":true,
+    "type":"grass",
+    "moveClass": "special",
     "doContact":true,
     "priority": 0,
     "pp":25

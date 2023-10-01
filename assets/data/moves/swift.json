@@ -1,0 +1,10 @@
+{
+    "moveName":"RAPIDEZ",
+    "power": 60,
+    "accuary": -1,
+    "type":"normal",
+    "moveClass": "special",
+    "doContact": false,
+    "priority": 0,
+    "pp": 20
+}

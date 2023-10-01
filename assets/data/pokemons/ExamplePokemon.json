@@ -16,10 +16,6 @@
         {
             "level": 15,
             "move": "newMove"
-        },
-        {
-            "level": 16,
-            "evolution": "newPokemon"
         }
     ]
 }

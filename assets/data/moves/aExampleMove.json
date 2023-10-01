@@ -3,8 +3,14 @@
     "power": 0,
     "accuary": 0,
     "type":"normal",
-    "isSpecial":false,
-    "doContact":false,
+    "moveClass": "fisic",
+    "doContact": false,
     "priority": 0,
-    "pp": 0
+    "pp": 0,
+    "multiProb": [100, 37.5, 37.5, 12.5, 12.5],
+    "secondEffect": {
+            
+        "effect": "targetPAR/userAttack2",
+        "prob": 100
+    }
 }

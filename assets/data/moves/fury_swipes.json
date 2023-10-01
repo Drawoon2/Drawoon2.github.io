@@ -1,0 +1,11 @@
+{
+    "moveName":"GOLPES FURIA",
+    "power": 18,
+    "accuary": 80,
+    "type":"normal",
+    "moveClass": "fisic",
+    "doContact": true,
+    "priority": 0,
+    "pp": 15,
+    "multiProb": [100, 37.5, 37.5, 12.5, 12.5]
+}

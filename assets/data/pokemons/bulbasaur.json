@@ -2,7 +2,7 @@
     "name": "BULBASAUR",
     "image":"bulbasaur",
     "types":[
-        "plant"
+        "grass"
     ],
     "stats":{
         "hp": 45,
@@ -43,10 +43,6 @@
         {
             "level": 15,
             "move": "sleep_powder"
-        },
-        {
-            "level": 16,
-            "evolution": "ivysaur"
         },
         {
             "level": 18,

@@ -1,0 +1,10 @@
+{
+    "moveName":"ARAÑAZO",
+    "power": 40,
+    "accuary": 100,
+    "type":"normal",
+    "moveClass": "fisic",
+    "doContact": true,
+    "priority": 0,
+    "pp": 35
+}

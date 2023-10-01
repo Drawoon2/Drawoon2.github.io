@@ -1,0 +1,44 @@
+{
+    "name": "SANDSLASH",
+    "image":"sandslash",
+    "types":[
+        "ground"
+    ],
+    "stats":{
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "special": 55,
+        "speed": 65
+    },
+    "levels":[
+        {
+            "level": 1,
+            "move": "scratch"
+        },
+        {
+            "level": 1,
+            "move": "sand_attack"
+        },
+        {
+            "level": 10,
+            "move": "sand_attack"
+        },
+        {
+            "level": 17,
+            "move": "slash"
+        },
+        {
+            "level": 27,
+            "move": "poison_sting"
+        },
+        {
+            "level": 36,
+            "move": "swift"
+        },
+        {
+            "level": 47,
+            "move": "fury_swipes"
+        }
+    ]
+}

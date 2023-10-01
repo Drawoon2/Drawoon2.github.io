@@ -3,7 +3,7 @@
     "power": 40,
     "accuary": 100,
     "type":"water",
-    "isSpecial":true,
+    "moveClass": "special",
     "doContact":false,
     "priority": 0,
     "pp": 25

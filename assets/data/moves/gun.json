@@ -1,0 +1,10 @@
+{
+    "moveName":"ARMA",
+    "power": 200,
+    "accuary": 70,
+    "type":"normal",
+    "moveClass": "special",
+    "doContact": false,
+    "priority": 0,
+    "pp": 7
+}
