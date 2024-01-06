@@ -1,10 +1,11 @@
 {
     "trainerName": "RED",
-    "trainerImage": "",
+    "trainerImage": "red",
     "difficulty": "hard",
     "pokemons": [
-        "bulbasaur",
-        "pikachu"
+        "charmander",
+        "pikachu",
+        "sandslash"
     ],
     "inventory": [],
     "loseDialogue": ""

@@ -1,6 +1,7 @@
 {
     "name": "SANDSLASH",
     "image":"sandslash",
+    "menuImage": "default",
     "types":[
         "ground"
     ],

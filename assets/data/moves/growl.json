@@ -1,0 +1,17 @@
+{
+    "moveName":"GRUÑIDO",
+    "power": 0,
+    "accuary": 100,
+    "type":"normal",
+    "moveClass": "state",
+    "doContact": false,
+    "priority": 0,
+    "pp": 40,
+    "secondEffect": [
+        {
+            
+            "effect": "target.attack.-1",
+            "prob": 100
+        }
+    ]
+}

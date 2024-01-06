@@ -1,6 +1,7 @@
 {
     "name": "BULBASAUR",
     "image":"bulbasaur",
+    "menuImage": "plant",
     "types":[
         "grass"
     ],

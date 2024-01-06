@@ -1,6 +1,7 @@
 {
     "name": "PIKACHU",
     "image":"pikachu",
+    "menuImage": "pikachu",
     "types":[
         "electric"
     ],

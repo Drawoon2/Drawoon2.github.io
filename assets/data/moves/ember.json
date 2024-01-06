@@ -6,5 +6,12 @@
     "moveClass": "special",
     "doContact":false,
     "priority": 0,
-    "pp": 25
+    "pp": 25,
+    "secondEffect": [
+        {
+            
+            "effect": "target.BRN",
+            "prob": 10
+        }
+    ]
 }

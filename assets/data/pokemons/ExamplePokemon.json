@@ -1,6 +1,7 @@
 {
     "name": "defaultName",
     "image":"defaultimageName",
+    "menuImage": "default",
     "types":[
         "normal",
         "normal"

@@ -1,0 +1,49 @@
+{
+    "name": "EEVEE",
+    "image":"eevee",
+    "menuImage": "default",
+    "types":[
+        "normal"
+    ],
+    "stats":{
+        "hp": 55,
+        "attack": 55,
+        "defense": 50,
+        "special": 65,
+        "speed": 55
+    },
+    "levels":[
+        {
+            "level": 1,
+            "move": "tail_whip"
+        },
+        {
+            "level": 1,
+            "move": "tackle"
+        },
+        {
+            "level": 8,
+            "move": "sand_attack"
+        },
+        {
+            "level": 16,
+            "move": "growl"
+        },
+        {
+            "level": 23,
+            "move": "quick_attack"
+        },
+        {
+            "level": 30,
+            "move": "bite"
+        },
+        {
+            "level": 36,
+            "move": "focus_energy"
+        },
+        {
+            "level": 42,
+            "move": "take_down"
+        }
+    ]
+}

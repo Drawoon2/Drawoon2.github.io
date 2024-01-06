@@ -1,6 +1,7 @@
 {
     "name": "CHARMANDER",
     "image":"charmander",
+    "menuImage": "default",
     "types":[
         "fire"
     ],
@@ -12,6 +13,38 @@
         "speed": 65
     },
     "levels":[
+        {
+            "level": 1,
+            "move": "scratch"
+        },
+        {
+            "level": 1,
+            "move": "growl"
+        },
+        {
+            "level": 9,
+            "move": "ember"
+        },
+        {
+            "level": 15,
+            "move": "leer"
+        },
+        {
+            "level": 22,
+            "move": "rage"
+        },
+        {
+            "level": 30,
+            "move": "slash"
+        },
+        {
+            "level": 38,
+            "move": "flamethrower"
+        },
+        {
+            "level": 46,
+            "move": "fire_spin"
+        }
 
     ]
 }

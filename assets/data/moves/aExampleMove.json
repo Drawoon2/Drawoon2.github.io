@@ -8,9 +8,11 @@
     "priority": 0,
     "pp": 0,
     "multiProb": [100, 37.5, 37.5, 12.5, 12.5],
-    "secondEffect": {
+    "secondEffect": [
+        {
             
-        "effect": "targetPAR/userAttack2",
-        "prob": 100
-    }
+            "effect": "target.PAR/user.attack.2",
+            "prob": 100
+        }
+    ]
 }

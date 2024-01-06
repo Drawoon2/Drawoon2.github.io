@@ -1,10 +1,11 @@
 {
     "trainerName": "BLUE",
-    "trainerImage": "",
+    "trainerImage": "blue",
     "difficulty": "easy",
     "pokemons": [
-        "charmander",
-        "squirtle"
+        "bulbasaur",
+        "squirtle",
+        "eevee"
     ],
     "inventory": [],
     "loseDialogue": ""

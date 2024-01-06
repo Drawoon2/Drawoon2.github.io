@@ -1,6 +1,7 @@
 {
     "name": "SQUIRTLE",
     "image":"squirtle",
+    "menuImage": "water",
     "types":[
         "water"
     ],
@@ -12,6 +13,37 @@
         "speed": 43
     },
     "levels":[
-
+        {
+            "level": 1,
+            "move": "tackle"
+        },
+        {
+            "level": 1,
+            "move": "tail_whip"
+        },
+        {
+            "level": 8,
+            "move": "bubble"
+        },
+        {
+            "level": 15,
+            "move": "water_gun"
+        },
+        {
+            "level": 22,
+            "move": "bite"
+        },
+        {
+            "level": 28,
+            "move": "withdraw"
+        },
+        {
+            "level": 34,
+            "move": "skull_bash "
+        },
+        {
+            "level": 42,
+            "move": "hydro_pump"
+        }
     ]
 }

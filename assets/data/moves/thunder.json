@@ -6,5 +6,12 @@
     "moveClass": "special",
     "doContact":false,
     "priority": 0,
-    "pp": 10
+    "pp": 10,
+    "secondEffect": [
+        {
+            
+            "effect": "target.PAR",
+            "prob": 10
+        }
+    ]
 }
